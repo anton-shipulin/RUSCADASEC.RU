@@ -1,3 +1,5 @@
 markdown: kramdown
 name: RUSCADASEC Community
 title: null
+
+theme: jekyll-theme-minimal
