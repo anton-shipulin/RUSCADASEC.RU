@@ -1,4 +1,4 @@
-[ Russian | [English](https://ruscadasec.com)]
+Russian | [English](https://ruscadasec.com)
 
 ## О нас 
 
