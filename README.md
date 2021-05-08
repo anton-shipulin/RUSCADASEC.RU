@@ -61,35 +61,35 @@ RUSCADASEC Challenge Coin is an initiative for [to be defined...]
 
 |#|Имя|Страна||||||
 |---|---|:---:|---|---|---|---|---|
-| 001 | Anton Shipulin | Россия | [![][1]](https://twitter.com/shipulin_anton) | [![][2]](https://www.linkedin.com/in/shipulin) | [![][3]](https://www.facebook.com/anton.shipulin.7) |||
-| 002 | Ilya Karpov | Россия |  | [![][2]](https://www.linkedin.com/in/ilya-karpov-06519178/) | [![][3]](https://www.facebook.com/silentemptiness) |||
-| 003 | Evgeniy Druzhinin  | Россия |  |  | [![][3]](https://www.facebook.com/evgeniy.druzhinin) |||
-| 004 | Alexey Gurevich  | Россия |  | [![][2]](https://www.linkedin.com/in/alexey-gurevich-0940ab111/) | [![][3]](https://www.facebook.com/alexey.gurevich.71) |||
-| 006 | Denis Sukhanov | Россия |  |  | [![][3]](https://www.facebook.com/viewpnt) |||
-| 009 | Dmitry Darensky | Россия | [![][1]](https://twitter.com/ddarensky) | [![][2]](https://www.linkedin.com/in/darensky/) | [![][3]](https://www.facebook.com/dmitry.darensky) |||
-| 010 | Vitaly Siyanov | Россия |  | [![][2]](https://www.linkedin.com/in/виталий-сиянов-0933182a/) | [![][3]](https://www.facebook.com/profile.php?id=1366303731) |||
-| 011 | Anton Elizarov | Россия |  | [![][2]](https://www.linkedin.com/in/akelizarov/) | [![][3]](https://www.facebook.com/profile.php?id=100001365592965) |||
-| 012 | Roman Krasnov | Россия |  | [![][2]](https://www.linkedin.com/in/romankrasnov/) | [![][3]](https://www.facebook.com/roman.krasnov.90) |||
-| 013 | Yan Sukhikh | Россия |  | [![][2]](https://www.linkedin.com/in/yan-sukhikh-aa972242/) | [![][3]](https://www.facebook.com/yan.andreevich) |||
-| 014 | Alexander Karpenko | Россия |  | [![][2]](https://www.linkedin.com/in/александр-карпенко-a48b5b100/) |  |||
-| 015 | Maxim Nikandrov | Россия |  | [![][2]](https://www.linkedin.com/in/nikandrov-maxim-8236b280/) | [![][3]](https://www.facebook.com/maxim.nikandrov) ||
-| 016 | Nikolay Domukhovsky | Россия |  | [![][2]](https://www.linkedin.com/in/%D0%BD%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9-%D0%B4%D0%BE%D0%BC%D1%83%D1%85%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9-8b936b64/) | [![][3]](https://www.facebook.com/profile.php?id=100011343135746) |||
-| 017 | Aleksey Lukatskiy | Россия |[![][1]](https://twitter.com/alukatsky)|[![][2]](https://www.linkedin.com/in/aleksey-lukatskiy-b9a2431/)|[![][3]](https://www.facebook.com/alexey.lukatsky)|||
-| 018 | Alexey Petukhov | Россия |  |  | [![][3]](https://www.facebook.com/petyhovav) |||
-| 019 | Evgeny Gengrinovich | Россия |  | [![][2]](https://www.linkedin.com/in/evgeny-gengrinovich-49351924) | [![][3]](https://www.facebook.com/profile.php?id=100000910518589) |||
-| 020 | Denis Babaev | Россия | [![][1]](https://twitter.com/babaevdi) | [![][2]](https://www.linkedin.com/in/denis-babaev-8529a341/) | [![][3]](https://www.facebook.com/denis.babaev) |||
-| 021 | Ekaterina Rudina | Россия | [![][1]](https://twitter.com/EkaterinaRudina) | [![][2]](https://www.linkedin.com/in/ekaterina-rudina/) | [![][3]](https://www.facebook.com/ekaterina.rudina.3) |||
-| 022 | Sergey Povyshev | Россия |  |  | [![][3]](https://www.facebook.com/profile.php?id=100004347582964) |[![][4]](https://www.facebook.com/profile.php?id=100004347582964)||
-| 023 | Vladimir Karantaev | Россия | [![][1]](https://twitter.com/KarantaevV) | [![][2]](https://www.linkedin.com/in/vladimirkarantaev/) | [![][3]](https://www.facebook.com/vladimir.karantaev) |||
-| 024 | Andrey Kuznetsov | Россия |  |  | [![][3]](https://www.facebook.com/einaruss) |||
-| 025 | Marina Sorokina | Россия | [![][1]](https://twitter.com/MarSorokina) | [![][2]](https://www.linkedin.com/in/marsorokina/) | [![][3]](https://www.facebook.com/Mar.Sorokina) |||
-| 026 | Sergey Pariev | Россия |  | [![][2]](https://www.linkedin.com/in/sergey-pariev-3196441/) | [![][3]](https://www.facebook.com/sergey.pariev) |||
-| 027 | Alexey Martyntsev | Россия |  | [![][2]](https://www.linkedin.com/in/алексей-мартынцев-13452456/) | [![][3]](https://www.facebook.com/alex.martyntsev) |||
-| 030 | Artyom Zubkov | Россия |  | [![][2]](https://www.linkedin.com/in/артем-зубков-9450a430/) | [![][3]](https://www.facebook.com/artem.zubkov.37) |||
-| 033 | Alexey Ivanov | Россия |  | [![][2]](https://www.linkedin.com/in/alexey-ivanov-540bb34/) ||||
-| 040 | Kirill Manakhov | Россия |  | [![][2]](https://www.linkedin.com/in/kirill-manakhov-5600a430/m) | [![][3]](https://www.facebook.com/kirill.manakhov) |||
-| 069 | Vladimir Dashchenko | Россия | [![][1]](https://twitter.com/VDashchenko) | [![][2]](https://www.linkedin.com/in/vladimir-dashchenko/) | [![][3]](https://www.facebook.com/vovka.vovka) |||
-| 100 | Alexey Komarov | Россия | [![][1]](https://twitter.com/zlonov) | [![][2]](https://www.linkedin.com/in/zlonov/) | [![][3]](https://www.facebook.com/komarov.alexey) ||[![][5]](https://zlonov.com)|
+| 001 | Антон Шипулин | Россия | [![][1]](https://twitter.com/shipulin_anton) | [![][2]](https://www.linkedin.com/in/shipulin) | [![][3]](https://www.facebook.com/anton.shipulin.7) |||
+| 002 | Илья Карпов | Россия |  | [![][2]](https://www.linkedin.com/in/ilya-karpov-06519178/) | [![][3]](https://www.facebook.com/silentemptiness) |||
+| 003 | Евгений Дружинин  | Россия |  |  | [![][3]](https://www.facebook.com/evgeniy.druzhinin) |||
+| 004 | Алексей Гуревич  | Россия |  | [![][2]](https://www.linkedin.com/in/alexey-gurevich-0940ab111/) | [![][3]](https://www.facebook.com/alexey.gurevich.71) |||
+| 006 | Денис Суханов | Россия |  |  | [![][3]](https://www.facebook.com/viewpnt) |||
+| 009 | Дмитрий Даренский | Россия | [![][1]](https://twitter.com/ddarensky) | [![][2]](https://www.linkedin.com/in/darensky/) | [![][3]](https://www.facebook.com/dmitry.darensky) |||
+| 010 | Виталий Сиянов | Россия |  | [![][2]](https://www.linkedin.com/in/виталий-сиянов-0933182a/) | [![][3]](https://www.facebook.com/profile.php?id=1366303731) |||
+| 011 | Антон Елизаров | Россия |  | [![][2]](https://www.linkedin.com/in/akelizarov/) | [![][3]](https://www.facebook.com/profile.php?id=100001365592965) |||
+| 012 | Роман Краснов | Россия |  | [![][2]](https://www.linkedin.com/in/romankrasnov/) | [![][3]](https://www.facebook.com/roman.krasnov.90) |||
+| 013 | Ян Сухих | Россия |  | [![][2]](https://www.linkedin.com/in/yan-sukhikh-aa972242/) | [![][3]](https://www.facebook.com/yan.andreevich) |||
+| 014 | Александр Карпенко | Россия |  | [![][2]](https://www.linkedin.com/in/александр-карпенко-a48b5b100/) |  |||
+| 015 | Максим Никандров | Россия |  | [![][2]](https://www.linkedin.com/in/nikandrov-maxim-8236b280/) | [![][3]](https://www.facebook.com/maxim.nikandrov) ||
+| 016 | Николай Домуховский | Россия |  | [![][2]](https://www.linkedin.com/in/%D0%BD%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9-%D0%B4%D0%BE%D0%BC%D1%83%D1%85%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9-8b936b64/) | [![][3]](https://www.facebook.com/profile.php?id=100011343135746) |||
+| 017 | Алексей Лукацкий | Россия |[![][1]](https://twitter.com/alukatsky)|[![][2]](https://www.linkedin.com/in/aleksey-lukatskiy-b9a2431/)|[![][3]](https://www.facebook.com/alexey.lukatsky)|||
+| 018 | Алексей Петухов | Россия |  |  | [![][3]](https://www.facebook.com/petyhovav) |||
+| 019 | Евгений Генгринович | Россия |  | [![][2]](https://www.linkedin.com/in/evgeny-gengrinovich-49351924) | [![][3]](https://www.facebook.com/profile.php?id=100000910518589) |||
+| 020 | Денис Бабаев | Россия | [![][1]](https://twitter.com/babaevdi) | [![][2]](https://www.linkedin.com/in/denis-babaev-8529a341/) | [![][3]](https://www.facebook.com/denis.babaev) |||
+| 021 | Екатерина Рудина | Россия | [![][1]](https://twitter.com/EkaterinaRudina) | [![][2]](https://www.linkedin.com/in/ekaterina-rudina/) | [![][3]](https://www.facebook.com/ekaterina.rudina.3) |||
+| 022 | Сергей Повышев | Россия |  |  | [![][3]](https://www.facebook.com/profile.php?id=100004347582964) |[![][4]](https://www.facebook.com/profile.php?id=100004347582964)||
+| 023 | Владимир Карантаев | Россия | [![][1]](https://twitter.com/KarantaevV) | [![][2]](https://www.linkedin.com/in/vladimirkarantaev/) | [![][3]](https://www.facebook.com/vladimir.karantaev) |||
+| 024 | Андрей Кузнецов | Россия |  |  | [![][3]](https://www.facebook.com/einaruss) |||
+| 025 | Марина Сорокина | Россия | [![][1]](https://twitter.com/MarSorokina) | [![][2]](https://www.linkedin.com/in/marsorokina/) | [![][3]](https://www.facebook.com/Mar.Sorokina) |||
+| 026 | Сергей Парьев | Россия |  | [![][2]](https://www.linkedin.com/in/sergey-pariev-3196441/) | [![][3]](https://www.facebook.com/sergey.pariev) |||
+| 027 | Алексей Мартынцев | Россия |  | [![][2]](https://www.linkedin.com/in/алексей-мартынцев-13452456/) | [![][3]](https://www.facebook.com/alex.martyntsev) |||
+| 030 | Артем Зубков | Россия |  | [![][2]](https://www.linkedin.com/in/артем-зубков-9450a430/) | [![][3]](https://www.facebook.com/artem.zubkov.37) |||
+| 033 | Алексей Иванов | Россия |  | [![][2]](https://www.linkedin.com/in/alexey-ivanov-540bb34/) ||||
+| 040 | Кирилл Манахов | Россия |  | [![][2]](https://www.linkedin.com/in/kirill-manakhov-5600a430/m) | [![][3]](https://www.facebook.com/kirill.manakhov) |||
+| 069 | Владимир Дащенко | Россия | [![][1]](https://twitter.com/VDashchenko) | [![][2]](https://www.linkedin.com/in/vladimir-dashchenko/) | [![][3]](https://www.facebook.com/vovka.vovka) |||
+| 100 | Алексей Комаров | Россия | [![][1]](https://twitter.com/zlonov) | [![][2]](https://www.linkedin.com/in/zlonov/) | [![][3]](https://www.facebook.com/komarov.alexey) ||[![][5]](https://zlonov.com)|
 
 ---
 Copyright © RUSCADASEC
