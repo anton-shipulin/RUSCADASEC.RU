@@ -1,28 +1,28 @@
 <p align="right">[ Russian | <a href="https://ruscadasec.com">English</a> ]</p>
 
-## About Us 
+## О нас 
 
 <img align="left" height="20%" width="20%" src="003_ruscadasec_J_logo-fin_RGB_with-safe-area.png">
 
-RUSCADASEC is an independent non-profit initiative on developing the open Russian-speaking international community of industrial/operational technology cybersecurity professionals.
+RUSCADASEC - независимая некоммерческая инициатива по развитию открытого русскоязычного международного сообщества специалистов по промышленной кибербезопасности / кибербезопасности АСУ ТП
 
-The initiative objectives are to raise the awareness and expertise of security and industrial automation specialists, to facilitate professional networking between specialists and organizations, to promote a security market, to develop relationship with like-minded foreign communities and increase general level of cybersecurity in industrial companies as a main goal.
+Целями инициативы являются повышение осведомлённости и квалификации специалистов по безопасности и промышленной автоматизации, развитие профессиональных связей между специалистами и организациями, содействие развитию рынка, развитие связей с профильными международными сообществами, и в итоге повышение уровня безопасности на промышленных предприятиях
 
-The initiative encompasses online groups, live meetups and profile conferences, where the community members monitor main local and global industrial cyber security events, discuss organizational and technical aspects of the topic, share experience and ideas. We are always glad to have new members, ideas, and help on the community developing. Join us!
+Инициатива охватывает онлайн площадки, живые встречи и профильные конференции, в рамках которых участники следят за текущим состоянием темы, обсуждают организационные и технические вопросы, обмениваются опытом, идеями. Всегда рады новым участникам сообщества и открыты к идеям по развитию сообщества и помощи в их реализации. Присоединяйтесь к нам!
 
-## Join Our Groups!
+## Присоединяйся к нашим группам!
 
-* [[ Telegram group ]](https://t.me/RUSCADASEC) (2K+ members)
-* [[ Facebook group ]](https://www.facebook.com/groups/RUSCADASEC.ORG) (2K+ members)
+* [[ Группа Telegram ]](https://t.me/RUSCADASEC) (2K+ участников)
+* [[ Группа Facebook ]](https://www.facebook.com/groups/RUSCADASEC.ORG) (2K+ участников)
 
 ```
-Simple but important community rules:
+Простые но важные правила сообщества:
 
-1. Be respectful of the other members
-2. Stick to the topic of the groups
+1. Относиться уважительно к другим участникам групп
+2. Придерживаться темы группы 
 ```
 
-## Our Contacts and Resources
+## Наши контакты и ресурсы
 
 * [Email](mailto:info@ruscadasec.com)
 * [Twitter](https://twitter.com/RUSCADASEC)
@@ -36,7 +36,7 @@ Simple but important community rules:
 * [PayPal Donation](http://paypal.me/RUSCADASEC)
 * [Yandex Donation](https://sobe.ru/na/ruscadasec)
 
-## Partners and Friendly ICS Security Communities
+## Партнеры и другие ICS Security сообщества
 
 * [SCADASEC](https://groups.io/g/scadasec/) (US)
 * [EKS Siber Güvenlik Ekosistemi](https://www.eksguvenligi.org/) (Turkey)
@@ -57,7 +57,7 @@ RUSCADASEC Challenge Coin is an initiative for [to be defined...]
 [4]: 211-instagram.png
 [5]: 311-homepage.png
 
-RUSCADASEC challenge coin holders
+Владельцы RUSCADASEC challenge coin
 
 |#|Name|Country||||||
 |---|---|:---:|---|---|---|---|---|
