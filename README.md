@@ -79,7 +79,7 @@ RUSCADASEC Challenge Coin is an initiative for [to be defined...]
 | 019 | Евгений Генгринович | Россия |  | [![][2]](https://www.linkedin.com/in/evgeny-gengrinovich-49351924) | [![][3]](https://www.facebook.com/profile.php?id=100000910518589) |||
 | 020 | Денис Бабаев | Россия | [![][1]](https://twitter.com/babaevdi) | [![][2]](https://www.linkedin.com/in/denis-babaev-8529a341/) | [![][3]](https://www.facebook.com/denis.babaev) |||
 | 021 | Екатерина Рудина | Россия | [![][1]](https://twitter.com/EkaterinaRudina) | [![][2]](https://www.linkedin.com/in/ekaterina-rudina/) | [![][3]](https://www.facebook.com/ekaterina.rudina.3) |||
-| 022 | Сергей Повышев | Россия |  |  | [![][3]](https://www.facebook.com/profile.php?id=100004347582964) |[![][4]](https://www.facebook.com/profile.php?id=100004347582964)||
+| 022 | Сергей Повышев | Россия |  |  | [![][3]](https://www.facebook.com/profile.php?id=100004347582964) |[![][4]](https://www.instagram.com/sap_kvark)||
 | 023 | Владимир Карантаев | Россия | [![][1]](https://twitter.com/KarantaevV) | [![][2]](https://www.linkedin.com/in/vladimirkarantaev/) | [![][3]](https://www.facebook.com/vladimir.karantaev) |||
 | 024 | Андрей Кузнецов | Россия |  |  | [![][3]](https://www.facebook.com/einaruss) |||
 | 025 | Марина Сорокина | Россия | [![][1]](https://twitter.com/MarSorokina) | [![][2]](https://www.linkedin.com/in/marsorokina/) | [![][3]](https://www.facebook.com/Mar.Sorokina) |||
