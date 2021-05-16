@@ -10,13 +10,19 @@ RUSCADASEC - независимая некоммерческая инициат�
 
 Инициатива охватывает онлайн площадки, живые встречи и профильные конференции, в рамках которых участники следят за текущим состоянием темы, обсуждают организационные и технические вопросы, обмениваются опытом, идеями. Всегда рады новым участникам сообщества и открыты к идеям по развитию сообщества и помощи в их реализации. Присоединяйтесь к нам!
 
+[<img height="25%" width="25%" src="TG_EN_2.png">](https://t.me/RUSCADASEC)
+
+<!---
+
 ## Мы здесь, присоединяйся!
 
 * [[ Группа Telegram ]](https://t.me/RUSCADASEC) 2K+ участников
 * [[ Группа Facebook ]](https://www.facebook.com/groups/RUSCADASEC.ORG) 2K+ участников
 
+--> 
+
 ```
-Простые но важные правила сообщества:
+Простые, но важные правила сообщества:
 
 1. Относиться уважительно к другим участникам групп
 2. Придерживаться темы группы 
@@ -29,12 +35,15 @@ RUSCADASEC - независимая некоммерческая инициат�
 * [Telegram Channel](https://t.me/ruscadasecnews)
 * [Youtube Channel](https://www.youtube.com/channel/UCLGBGUsWM9zjPIQbSmfzG1w)
 * [Slide Decks](https://speakerdeck.com/ruscadasec)
-* [Newsletter](https://ruscadasec.us20.list-manage.com/subscribe/post?u=a01e4b7393b917c5bad9805f3&id=fdb45fbc20)
 * [Online Shop](http://ruscadasec.printdirect.ru/)
 * [Beer Meetups](https://ruscadasec.timepad.ru/events/)
-* [Zoom Meetups](http://bit.ly/rssmeetup)
 * [PayPal Donation](http://paypal.me/RUSCADASEC)
 * [Yandex Donation](https://sobe.ru/na/ruscadasec)
+
+<!---
+* [Newsletter](https://ruscadasec.us20.list-manage.com/subscribe/post?u=a01e4b7393b917c5bad9805f3&id=fdb45fbc20)
+* [Zoom Meetups](http://bit.ly/rssmeetup)
+--> 
 
 ## Партнеры и другие ICS Security сообщества
 
