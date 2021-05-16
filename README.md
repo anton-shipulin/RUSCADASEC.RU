@@ -2,7 +2,7 @@ Russian | [English](http://ruscadasec.com)
 
 ## О нас 
 
-<img align="left" height="20%" width="20%" src="003_ruscadasec_J_logo-fin_RGB_with-safe-area.png">
+[<img align="left" height="20%" width="20%" src="003_ruscadasec_J_logo-fin_RGB_with-safe-area.png">](https://t.me/RUSCADASEC)
 
 RUSCADASEC - независимая некоммерческая инициатива по развитию открытого международного сообщества специалистов по промышленной кибербезопасности / кибербезопасности АСУ ТП
 
