@@ -76,8 +76,8 @@ RUSCADASEC Challenge Coin is an initiative for [to be defined...] AAAA AAAA AAAA
 | 002 | Илья Карпов | Россия |  | [![][2]](https://www.linkedin.com/in/ilya-karpov-06519178/) | [![][3]](https://www.facebook.com/silentemptiness) |||
 | 003 | Евгений Дружинин  | Россия |  |  | [![][3]](https://www.facebook.com/evgeniy.druzhinin) |||
 | 004 | Алексей Гуревич  | Россия |  | [![][2]](https://www.linkedin.com/in/alexey-gurevich-0940ab111/) | [![][3]](https://www.facebook.com/alexey.gurevich.71) |||
-| 006 | Денис Суханов | Россия |  |  | [![][3]](https://www.facebook.com/d.tameev) |||
-| 008 | Даниил Тамеев | Россия |  | [![][2]](https://www.linkedin.com/in/dtameev/) | [![][3]](https://www.facebook.com/viewpnt) |||
+| 006 | Денис Суханов | Россия |  |  | [![][3]](https://www.facebook.com/viewpnt) |||
+| 008 | Даниил Тамеев | Россия |  | [![][2]](https://www.linkedin.com/in/dtameev/) | [![][3]](https://www.facebook.com/d.tameev) |||
 | 009 | Дмитрий Даренский | Россия | [![][1]](https://twitter.com/ddarensky) | [![][2]](https://www.linkedin.com/in/darensky/) | [![][3]](https://www.facebook.com/dmitry.darensky) |||
 | 010 | Виталий Сиянов | Россия |  | [![][2]](https://www.linkedin.com/in/виталий-сиянов-0933182a/) | [![][3]](https://www.facebook.com/profile.php?id=1366303731) |||
 | 011 | Антон Елизаров | Россия |  | [![][2]](https://www.linkedin.com/in/akelizarov/) | [![][3]](https://www.facebook.com/profile.php?id=100001365592965) |||
