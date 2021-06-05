@@ -58,7 +58,7 @@ RUSCADASEC - независимая некоммерческая инициат�
 
 <img align="left" height="25%" width="25%" src="001-rss_coin.jpg">
 
-RUSCADASEC Challenge Coin is an initiative for [to be defined...] AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA 
+RUSCADASEC Challenge Coin - металлический медальон с логотипом, девизом сообщества и уникальным номером, вручаемый людям в знак признания поддержки и вклада в развитие сообщества RUSCADASEC, вклада в развитие промышленной кибербезопасности в России и в мире! 
 
 <!--- <img height="70%" width="70%" src="001-rss_coin.jpg"> --> 
 
@@ -67,6 +67,9 @@ RUSCADASEC Challenge Coin is an initiative for [to be defined...] AAAA AAAA AAAA
 [3]: 001-facebook.png
 [4]: 211-instagram.png
 [5]: 311-homepage.png
+
+<br />
+<br />
 
 Владельцы RUSCADASEC challenge coin
 
