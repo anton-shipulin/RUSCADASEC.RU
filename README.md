@@ -101,9 +101,10 @@ RUSCADASEC Challenge Coin - металлический медальон с ло�
 | 025 | Марина Сорокина | Россия | [![][1]](https://twitter.com/MarSorokina) | [![][2]](https://www.linkedin.com/in/marsorokina/) | [![][3]](https://www.facebook.com/Mar.Sorokina) |||
 | 026 | Сергей Парьев | Россия |  | [![][2]](https://www.linkedin.com/in/sergey-pariev-3196441/) | [![][3]](https://www.facebook.com/sergey.pariev) |||
 | 027 | Алексей Мартынцев | Россия |  | [![][2]](https://www.linkedin.com/in/алексей-мартынцев-13452456/) | [![][3]](https://www.facebook.com/alex.martyntsev) |||
+| 028 | Александр Лифанов | Россия | [![][1]](https://twitter.com/AlxLifanov) | [![][2]](https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80-%D0%BB%D0%B8%D1%84%D0%B0%D0%BD%D0%BE%D0%B2-21168725/) | [![][3]](https://www.facebook.com/alifanov) |||
 | 030 | Артем Зубков | Россия |  | [![][2]](https://www.linkedin.com/in/артем-зубков-9450a430/) | [![][3]](https://www.facebook.com/artem.zubkov.37) |||
 | 033 | Алексей Иванов | Россия |  | [![][2]](https://www.linkedin.com/in/alexey-ivanov-540bb34/) ||||
-| 035 | Джан Демирел (Can Demirel) | Turkey | [![][1]](https://twitter.com/secandit) | [![][2]](https://www.linkedin.com/in/demirelcan/) ||||
+| 035 | Джан Демирель (Can Demirel) | Турция | [![][1]](https://twitter.com/secandit) | [![][2]](https://www.linkedin.com/in/demirelcan/) ||||
 | 040 | Кирилл Манахов | Россия |  | [![][2]](https://www.linkedin.com/in/kirill-manakhov-5600a430/m) | [![][3]](https://www.facebook.com/kirill.manakhov) |||
 | 069 | Владимир Дащенко | Россия | [![][1]](https://twitter.com/VDashchenko) | [![][2]](https://www.linkedin.com/in/vladimir-dashchenko/) | [![][3]](https://www.facebook.com/vovka.vovka) |||
 | 100 | Алексей Комаров | Россия | [![][1]](https://twitter.com/zlonov) | [![][2]](https://www.linkedin.com/in/zlonov/) | [![][3]](https://www.facebook.com/komarov.alexey) ||[![][5]](https://zlonov.com)|
