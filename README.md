@@ -107,6 +107,7 @@ RUSCADASEC Challenge Coin - металлический медальон с ло�
 | 035 | Джан Демирель (Can Demirel) | Турция | [![][1]](https://twitter.com/secandit) | [![][2]](https://www.linkedin.com/in/demirelcan/) ||||
 | 040 | Кирилл Манахов | Россия |  | [![][2]](https://www.linkedin.com/in/kirill-manakhov-5600a430/m) | [![][3]](https://www.facebook.com/kirill.manakhov) |||
 | 069 | Владимир Дащенко | Россия | [![][1]](https://twitter.com/VDashchenko) | [![][2]](https://www.linkedin.com/in/vladimir-dashchenko/) | [![][3]](https://www.facebook.com/vovka.vovka) |||
+| 070 | Евгений Касперский | Россия | [![][1]](https://twitter.com/e_kaspersky) | [![][2]](https://www.linkedin.com/in/eugenekaspersky) | [![][3]](https://www.facebook.com/EugeneKaspersky) |||
 | 100 | Алексей Комаров | Россия | [![][1]](https://twitter.com/zlonov) | [![][2]](https://www.linkedin.com/in/zlonov/) | [![][3]](https://www.facebook.com/komarov.alexey) ||[![][5]](https://zlonov.com)|
 
 ---
