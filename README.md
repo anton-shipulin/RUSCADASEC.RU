@@ -47,7 +47,7 @@ RUSCADASEC - независимая некоммерческая инициат�
 * [Zoom Meetups](http://bit.ly/rssmeetup)
 --> 
 
-## Партнеры и другие ICS Security сообщества
+## Партнеры и другие открытые сообщества по промышленной кибербезопасности
 
 * [SCADASEC](https://groups.io/g/scadasec/) (США)
 * [EKS Siber Güvenlik Ekosistemi](https://www.eksguvenligi.org/) (Турция)
@@ -55,6 +55,7 @@ RUSCADASEC - независимая некоммерческая инициат�
 * [Industrial Cybersecurity Center (CCI)](https://www.cci-es.org/) (Испания)
 * [Beer ISAC](https://twitter.com/BEERISAC) (США)
 * [SANS ICS Community](https://ics-community.sans.org/) (США)
+* [ISA99 Standards Committee](https://www.isa.org/standards-and-publications/isa-standards/join-a-standards-committee)(США)
 
 ## RUSCADASEC challenge coin
 
