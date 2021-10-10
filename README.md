@@ -38,8 +38,8 @@ RUSCADASEC - независимая некоммерческая инициат�
 * [Telegram группа](https://t.me/ruscadasec)
 * [Слайды докладов](https://speakerdeck.com/ruscadasec)
 * [Магазин сувениров](http://ruscadasec.printdirect.ru/)
-* [PayPal пожертвование](http://paypal.me/RUSCADASEC)
-* [YooMoney пожертвование](https://sobe.ru/na/ruscadasec)
+* [PayPal пожертвования](http://paypal.me/RUSCADASEC)
+* [YooMoney пожертвования](https://sobe.ru/na/ruscadasec)
 * [PowerPoint слайд "о сообществе"](https://ruscadasec.ru/RUSCADASEC_16x9_2021.pptx)
 
 <!---
@@ -55,7 +55,7 @@ RUSCADASEC - независимая некоммерческая инициат�
 * [Industrial Cybersecurity Center (CCI)](https://www.cci-es.org/) (Испания)
 * [Beer ISAC](https://twitter.com/BEERISAC) (США)
 * [SANS ICS Community](https://ics-community.sans.org/) (США)
-* [ISA99 Standards Committee](https://www.isa.org/standards-and-publications/isa-standards/join-a-standards-committee)(США)
+* [ISA99 Standards Committee](https://www.isa.org/standards-and-publications/isa-standards/join-a-standards-committee) (США)
 
 ## RUSCADASEC challenge coin
 
