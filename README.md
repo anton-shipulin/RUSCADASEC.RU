@@ -55,7 +55,7 @@ RUSCADASEC - независимая некоммерческая инициат�
 * [Industrial Cybersecurity Center (CCI)](https://www.cci-es.org/) (Испания)
 * [Beer ISAC](https://twitter.com/BEERISAC) (США)
 * [SANS ICS Community](https://ics-community.sans.org/) (США)
-* [ISA99 Standards Committee](https://www.isa.org/standards-and-publications/isa-standards/join-a-standards-committee) (США)
+* [ISA99 Standards Committee](https://www.isa.org/standards-and-publications/isa-standards/join-a-standards-committee) (США) - [Смотрите ответы Q8-Q1 об участии](https://ruscadasec.ru/ISA99-62443-FAQ.pdf)
 
 ## RUSCADASEC challenge coin
 
