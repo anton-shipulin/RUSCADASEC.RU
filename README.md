@@ -115,5 +115,6 @@ RUSCADASEC challenge coin - металлический медальон с ло�
 | 070 | Евгений Касперский | Россия | [![][1]](https://twitter.com/e_kaspersky) | [![][2]](https://www.linkedin.com/in/eugenekaspersky) | [![][3]](https://www.facebook.com/EugeneKaspersky) |||
 | 100 | Алексей Комаров | Россия | [![][1]](https://twitter.com/zlonov) | [![][2]](https://www.linkedin.com/in/zlonov/) | [![][3]](https://www.facebook.com/komarov.alexey) ||[![][5]](https://zlonov.com)|
 
+[<img height="25%" width="25%" src="TG_EN_2.png">](https://t.me/RUSCADASEC)
 ---
 Copyright © RUSCADASEC
