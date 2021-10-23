@@ -25,7 +25,7 @@
 
 ## Подкасты
 
-* [@BEERISAC: OT/ICS Security Podcast Playlist](https://podcasts.apple.com/us/podcast/beerisac-ot-ics-security-podcast-playlist/id1459741251) (Доступен через VPN)
+* [@BEERISAC: OT/ICS Security Podcast Playlist](http://bit.ly/beerisac) (Доступен через VPN)
 
 ## Конференции
 
