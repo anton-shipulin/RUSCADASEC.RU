@@ -41,7 +41,7 @@ RUSCADASEC - независимая некоммерческая инициат�
 * [PayPal пожертвования](http://paypal.me/RUSCADASEC)
 * [YooMoney пожертвования](https://sobe.ru/na/ruscadasec)
 * [PowerPoint слайд "о сообществе"](https://ruscadasec.ru/RUSCADASEC_16x9_2021.pptx)
-* [Учебные материалы для начинающих](Resources/README.md)
+* [Учебные материалы для начинающих](resources/README.md)
 
 <!---
 * [Newsletter](https://ruscadasec.us20.list-manage.com/subscribe/post?u=a01e4b7393b917c5bad9805f3&id=fdb45fbc20)
