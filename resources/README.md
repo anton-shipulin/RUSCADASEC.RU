@@ -1,4 +1,6 @@
-| [На главную](http://ruscadasec.ru) | .
+[На главную](http://ruscadasec.ru) | Test
+<br />
+Russian | [English](http://ruscadasec.com)
 <br />
 <br />
 Перечень рекомендованных доступных учебных материалов по промышленной кибербезопасности для начинающих 
