@@ -28,6 +28,6 @@
 * [Информационная безопасность АСУ ТП критически важных объектов](https://xn--90acqjv.xn--p1ai/)
 * [Kaspersky Industrial Cybersecurity Conference](https://ics.kaspersky.ru/conference/)
 
-[<img height="25%" width="25%" src="TG_EN_2.png">](https://t.me/RUSCADASEC)
+[<img height="25%" width="25%" src="../TG_EN_2.png">](https://t.me/RUSCADASEC)
 ---
 Copyright © RUSCADASEC
