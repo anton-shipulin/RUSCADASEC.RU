@@ -1,4 +1,4 @@
-Russian | [English](http://ruscadasec.com)
+Russian | [English](http://ruscadasec.com) | [Ресурсы](Resources/README.md)
 
 ## О нас 
 
