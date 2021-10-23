@@ -4,6 +4,8 @@
 * [Безопасность АСУ ТП. Вводный курс](https://stepik.org/course/14905/promo)
 * [Курсы Cybersecurity and Infrastructure Security Agency (CISA)](https://ics-training.inl.gov/learn/home)
 
+## Профессиональные сертификации
+* [Security Certification Roadmap (см. ICS/IoT)](https://pauljerimy.com/security-certification-roadmap/)
 
 ## Книги
 * [Pascal Ackerman, Industrial Cybersecurity: Efficiently monitor the cybersecurity posture of your ICS environment, 2nd Edition](https://www.amazon.com/Industrial-Cybersecurity-Efficiently-cybersecurity-environment/dp/1800202091)
@@ -28,6 +30,14 @@
 * [Информационная безопасность АСУ ТП критически важных объектов](https://xn--90acqjv.xn--p1ai/)
 * [Kaspersky Industrial Cybersecurity Conference](https://ics.kaspersky.ru/conference/)
 
+<!---
+## Другие библиотеки материалов для дальнейшего изучения
+
+* [SANS Industrial Control Systems Library](https://www.sans.org/blog/industrial-control-systems-library/)
+* [SCADAhacker Library of Resources for Industrial Control System Cyber Security](https://scadahacker.com/library/)
+* [A Collection of Resources for Getting Started in ICS/SCADA Cybersecurity](http://www.robertmlee.org/a-collection-of-resources-for-getting-started-in-icsscada-cybersecurity/)
+--> 
+
 [<img height="25%" width="25%" src="../TG_EN_2.png">](https://t.me/RUSCADASEC)
 ---
-Copyright © RUSCADASEC
+Copyright © [RUSCADASEC](http://ruscadasec.ru)
