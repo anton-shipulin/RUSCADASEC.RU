@@ -3,20 +3,23 @@
 Коллекция рекомендованных доступных учебных материалов по промышленной кибербезопасности для начинающих. 
 
 ## Онлайн курсы
-* [Безопасность АСУ ТП. Вводный курс](https://stepik.org/course/14905/promo)
-* [Курсы Cybersecurity and Infrastructure Security Agency (CISA)](https://ics-training.inl.gov/learn/home)
+* [Безопасность АСУ ТП. Вводный курс](https://stepik.org/course/14905/promo) - Язык: Русский
+* [Курсы Cybersecurity and Infrastructure Security Agency (CISA)](https://ics-training.inl.gov/learn/home) - Язык: Английский. Включает финальные тесты и сертификаты
+* [OnRamp Online - 101 Level ICS Security](https://www.youtube.com/playlist?list=PL8OWO1qWXF4qRHrSTpwFbuLUL-bOrGn4y) -  Язык: Английский
+* [Highway Online - 201 Level ICS Security](https://www.youtube.com/playlist?list=PL8OWO1qWXF4oHYGs4HuQbuILv837TLMmp) -  Язык: Английский
+
 
 ## Профессиональные сертификации
 * [Security Certification Roadmap (см. ICS/IoT)](https://pauljerimy.com/security-certification-roadmap/)
 
 ## Книги
-* [Pascal Ackerman, Industrial Cybersecurity: Efficiently monitor the cybersecurity posture of your ICS environment, 2nd Edition](https://www.amazon.com/Industrial-Cybersecurity-Efficiently-cybersecurity-environment/dp/1800202091)
-* [Clint Bodungen, Hacking Exposed Industrial Control Systems: ICS and SCADA Security Secrets & Solutions](https://www.amazon.com/Hacking-Exposed-Industrial-Control-Systems/dp/1259589714)
-* [David Meltzer, Jeff Lund, Industrial Cyber Security for Dummies](https://scadahacker.com/library/Documents/eBooks/Belden%20-%20Industrial%20Cyber%20Security%20for%20Dummies.pdf)
+* [Pascal Ackerman, Industrial Cybersecurity: Efficiently monitor the cybersecurity posture of your ICS environment, 2nd Edition](https://www.amazon.com/Industrial-Cybersecurity-Efficiently-cybersecurity-environment/dp/1800202091) - Язык: Английский
+* [Clint Bodungen, Hacking Exposed Industrial Control Systems: ICS and SCADA Security Secrets & Solutions](https://www.amazon.com/Hacking-Exposed-Industrial-Control-Systems/dp/1259589714) - Язык: Английский
+* [David Meltzer, Jeff Lund, Industrial Cyber Security for Dummies](https://scadahacker.com/library/Documents/eBooks/Belden%20-%20Industrial%20Cyber%20Security%20for%20Dummies.pdf) - Язык: Английский
 
 
 ## Стандарты 
-* [SP 800-82 Rev. 2, Guide to Industrial Control Systems (ICS) Security](https://csrc.nist.gov/publications/detail/sp/800-82/rev-2/final)
+* [SP 800-82 Rev. 2, Guide to Industrial Control Systems (ICS) Security](https://csrc.nist.gov/publications/detail/sp/800-82/rev-2/final) - Язык: Английский
 
 ## Инструменты
 * [ICS Security Tools, Tips, and Trade](https://github.com/ITI/ICS-Security-Tools)
@@ -29,8 +32,8 @@
 
 ## Конференции
 
-* [Информационная безопасность АСУ ТП критически важных объектов](https://xn--90acqjv.xn--p1ai/)
-* [Kaspersky Industrial Cybersecurity Conference](https://ics.kaspersky.ru/conference/)
+* [Информационная безопасность АСУ ТП критически важных объектов](https://xn--90acqjv.xn--p1ai/) (Россия)
+* [Kaspersky Industrial Cybersecurity Conference](https://ics.kaspersky.ru/conference/) (Россия)
 
 <!---
 ## Другие библиотеки материалов для дальнейшего изучения
