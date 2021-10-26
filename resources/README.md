@@ -2,6 +2,10 @@
 
 Коллекция рекомендованных доступных учебных материалов по промышленной кибербезопасности для начинающих. 
 
+Если остаются вопросы - задавайте их в нашем сообществе в Telegram.
+
+[<img height="25%" width="25%" src="../TG_EN_2.png">](https://t.me/RUSCADASEC)
+
 ## Онлайн курсы
 * [Безопасность АСУ ТП. Вводный курс](https://stepik.org/course/14905/promo) - Язык: Русский
 * [Курсы Cybersecurity and Infrastructure Security Agency (CISA)](https://ics-training.inl.gov/learn/home) - Язык: Английский. Включает финальные тесты и сертификаты
