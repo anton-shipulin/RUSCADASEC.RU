@@ -31,6 +31,7 @@
 * [ICS Security Tools, Tips, and Trade](https://github.com/ITI/ICS-Security-Tools)
 * [A curated list of resources related to Industrial Control System (ICS) security](https://github.com/hslatman/awesome-industrial-control-system-security)
 * [ICS Security Products](https://github.com/S3cur1tyH4ggis/ICS-Security-Products)
+* [ICS Pentesting Tools](https://github.com/kh4sh3i/ICS-Pentesting-Tools)
 
 ## Подкасты
 
