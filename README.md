@@ -119,6 +119,7 @@ RUSCADASEC challenge coin - металлический медальон с ло�
 | 032 | Илья Шабанов | Россия | [![][1]](https://twitter.com/IlyaShabanov) | [![][2]](https://www.linkedin.com/in/ilyashabanov) |||||
 | 033 | Алексей Иванов | Россия |  | [![][2]](https://www.linkedin.com/in/alexey-ivanov-540bb34/) |||||
 | 035 | Джан Демирель (Can Demirel) | Турция | [![][1]](https://twitter.com/secandit) | [![][2]](https://www.linkedin.com/in/demirelcan/) |||||
+| 038 | Борис Савков | Россия ||[![][2]](https://www.linkedin.com/in/borissavkov/)|||||
 | 040 | Кирилл Манахов | Россия |  | [![][2]](https://www.linkedin.com/in/kirill-manakhov-5600a430/m) |||||
 | 042 | Закир Супеев | Казахстан | | [![][2]](https://www.linkedin.com/in/zakir-supeyev/) |||||
 | 069 | Владимир Дащенко | Россия | [![][1]](https://twitter.com/VDashchenko) | [![][2]](https://www.linkedin.com/in/vladimir-dashchenko/) |||||
