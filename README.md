@@ -60,6 +60,10 @@ RUSCADASEC - независимая некоммерческая инициат�
 * [EKS Siber Güvenlik Ekosistemi](https://www.eksguvenligi.org/) (Турция)
 * [Industrial Cybersecurity Center - CCI](https://www.cci-es.org/) (Испания)
 * [БИП-Клуб](https://club-bip.ru/ru/) (Россия) - Только для промышленных компаний
+* [Top 20 Secure PLC Coding Practices](https://plc-security.com/#contact) (Международное)
+* [CWE-CAPEC Industrial Control System and Operational Technology Special Interest Group](https://github.com/CWE-CAPEC/ICS-OT_SIG) (США)
+* [Cloud Security Alliance - Industrial Control Systems Working Group ](https://cloudsecurityalliance.org/research/working-groups/industrial-control-systems-ics-security/) (Международное)
+
 
 
 
