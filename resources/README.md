@@ -41,6 +41,7 @@
 
 * [Информационная безопасность АСУ ТП критически важных объектов](https://xn--90acqjv.xn--p1ai/) (Россия)
 * [Kaspersky Industrial Cybersecurity Conference](https://ics.kaspersky.ru/conference/) (Россия)
+* [Positive Hack Days](https://www.phdays.com) (Россия)
 
 <!---
 ## Другие библиотеки материалов для дальнейшего изучения
