@@ -63,6 +63,7 @@ RUSCADASEC - независимая некоммерческая инициат�
 * [Top 20 Secure PLC Coding Practices](https://plc-security.com/#contact) (Международное)
 * [CWE-CAPEC Industrial Control System and Operational Technology Special Interest Group](https://github.com/CWE-CAPEC/ICS-OT_SIG) (США)
 * [Cloud Security Alliance - Industrial Control Systems Working Group ](https://cloudsecurityalliance.org/research/working-groups/industrial-control-systems-ics-security/) (Международное)
+* [ControlThings Discord community](https://discord.gg/controlthings) (США) - OT/ICS Penetration Testing
 
 
 
