@@ -36,7 +36,7 @@ RUSCADASEC - независимая некоммерческая инициат�
 * [Youtube канал](https://www.youtube.com/channel/UCLGBGUsWM9zjPIQbSmfzG1w)
 * [Telegram канал](https://t.me/ruscadasecnews)
 * [Telegram группа](https://t.me/ruscadasec)
-* [Telegram канал](https://t.me/ScadaXNews) (только уязвимости)
+* [Telegram канал по уязвимостям](https://t.me/ScadaXNews)
 * [Слайды докладов](https://speakerdeck.com/ruscadasec)
 * [Магазин сувениров](http://ruscadasec.printdirect.ru/)
 * [PayPal пожертвования](http://paypal.me/RUSCADASEC)
