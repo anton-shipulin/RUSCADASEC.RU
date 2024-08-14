@@ -44,6 +44,11 @@ RUSCADASEC - независимая некоммерческая инициат�
 * [PowerPoint слайд "о сообществе"](https://ruscadasec.ru/RUSCADASEC_16x9_2021.pptx)
 * [Учебные материалы для начинающих](resources/README.md)
 
+
+## Наша конференция
+* [RUSCADASEC CONF](https://conf-ruscadasec.ru/)
+
+
 <!---
 * [Newsletter](https://ruscadasec.us20.list-manage.com/subscribe/post?u=a01e4b7393b917c5bad9805f3&id=fdb45fbc20)
 * [Zoom Meetups](http://bit.ly/rssmeetup)
