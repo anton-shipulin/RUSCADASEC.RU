@@ -52,10 +52,10 @@ RUSCADASEC - независимая некоммерческая инициат�
 ## Партнеры и другие сообщества по промышленной кибербезопасности
 
 
-* [ScadaX Security](https://t.me/ScadaXNews) (Международное)
 * [Beer ISAC](https://twitter.com/BEERISAC) (США)
 * [SCADASEC](https://groups.io/g/scadasec/) (США)
 * [SANS ICS Community](https://ics-community.sans.org/) (США)
+* [ScadaX Security](https://t.me/ScadaXNews) (Международное)
 * [Control System Cyber Security Association International - (CS)²AI](https://www.cs2ai.org/) (США)
 * [ISA99 Standards Committee](https://www.isa.org/standards-and-publications/isa-standards/join-a-standards-committee) (США) - [Смотрите ответы Q8-Q1 об участии](https://ruscadasec.ru/ISA99-62443-FAQ.pdf)
 * [ScadaSecBR](https://t.me/scadasecbr) (Бразилия)
