@@ -36,6 +36,7 @@ RUSCADASEC - независимая некоммерческая инициат�
 * [Youtube канал](https://www.youtube.com/channel/UCLGBGUsWM9zjPIQbSmfzG1w)
 * [Telegram канал](https://t.me/ruscadasecnews)
 * [Telegram группа](https://t.me/ruscadasec)
+* [Telegram канал](https://t.me/ScadaXNews) (только уязвимости)
 * [Слайды докладов](https://speakerdeck.com/ruscadasec)
 * [Магазин сувениров](http://ruscadasec.printdirect.ru/)
 * [PayPal пожертвования](http://paypal.me/RUSCADASEC)
@@ -51,6 +52,7 @@ RUSCADASEC - независимая некоммерческая инициат�
 ## Партнеры и другие сообщества по промышленной кибербезопасности
 
 
+* [ScadaX Security](https://t.me/ScadaXNews) (Международное)
 * [Beer ISAC](https://twitter.com/BEERISAC) (США)
 * [SCADASEC](https://groups.io/g/scadasec/) (США)
 * [SANS ICS Community](https://ics-community.sans.org/) (США)
@@ -93,7 +95,7 @@ RUSCADASEC challenge coin - металлический медальон с ло�
 |#|Имя|Страна|||||||
 |---|---|:---:|---|---|---|---|---|---|
 | 001 | Антон Шипулин | Россия | [![][1]](https://twitter.com/shipulin_anton) | [![][2]](https://www.linkedin.com/in/shipulin) ||||[![][6]](https://t.me/shipulin_anton)|
-| 002 | Илья Карпов | Россия |  | [![][2]](https://www.linkedin.com/in/ilya-karpov-06519178/) |||||
+| 002 | Илья Карпов | Россия |  | [![][2]](https://www.linkedin.com/in/ilya-karpov-06519178/) ||||[![][6]](https://t.me/yayca)|
 | 003 | Евгений Дружинин  | Россия |  |  |||||
 | 004 | Алексей Гуревич  | Россия |  | [![][2]](https://www.linkedin.com/in/alexey-gurevich-0940ab111/) |||||
 | 006 | Денис Суханов | Россия |  |  |||||
