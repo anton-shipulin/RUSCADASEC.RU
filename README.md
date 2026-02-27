@@ -134,6 +134,7 @@ RUSCADASEC challenge coin - металлический медальон с ло�
 | 038 | Борис Савков | Россия ||[![][2]](https://www.linkedin.com/in/borissavkov/)|||||
 | 040 | Кирилл Манахов | Россия |  | [![][2]](https://www.linkedin.com/in/kirill-manakhov-5600a430/m) |||||
 | 042 | Закир Супеев | Казахстан | | [![][2]](https://www.linkedin.com/in/zakir-supeyev/) |||||
+| 051 | Дмитрий Правиков | Россия |||||[![][5]](https://gubkin.ru/faculty/faculty-of-complex-safety-of-the-fuel-and-energy-complex/kafedry-i-podrazdeleniya/kbkvo/pps/pravikov_d_i.php)||
 | 053 | Андрей Иванов | Россия |||||||
 | 068 | Евгений Гончаров | Россия |||||||
 | 069 | Владимир Дащенко | Россия | [![][1]](https://twitter.com/VDashchenko) | [![][2]](https://www.linkedin.com/in/vladimir-dashchenko/) |||||
