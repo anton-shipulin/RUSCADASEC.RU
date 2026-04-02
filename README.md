@@ -10,7 +10,8 @@ RUSCADASEC - независимая некоммерческая инициат�
 
 Инициатива охватывает онлайн площадки, живые встречи и профильные конференции, в рамках которых участники следят за текущим состоянием темы, обсуждают организационные и технические вопросы, обмениваются опытом, идеями. Всегда рады новым участникам сообщества и открыты к идеям по развитию сообщества и помощи в их реализации. Присоединяйтесь к нам!
 
-[<img height="25%" width="25%" src="TG_EN_2.png">](https://t.me/RUSCADASEC)   
+[<img height="25%" width="25%" src="TG_EN_2.png">](https://t.me/RUSCADASEC)
+<iframe src="https://yoomoney.ru/quickpay/fundraise/button?billNumber=1GT0JVQSF17.260402&" width="330" height="50" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
 
 <!---
 
@@ -28,6 +29,10 @@ RUSCADASEC - независимая некоммерческая инициат�
 2. Придерживаться темы сообщества
 ```
 
+## Наша конференция
+* [RUSCADASEC CONF](http://conf.ruscadasec.ru/)
+
+
 ## Наши контакты и ресурсы
 
 * [Email](mailto:info@ruscadasec.com)
@@ -41,10 +46,6 @@ RUSCADASEC - независимая некоммерческая инициат�
 * [Магазин сувениров](http://ruscadasec.printdirect.ru/)
 * [PowerPoint слайд "о сообществе"](https://ruscadasec.ru/RUSCADASEC_16x9_2021.pptx)
 * [Учебные материалы для начинающих](resources/README.md)
-
-
-## Наша конференция
-* [RUSCADASEC CONF](http://conf.ruscadasec.ru/)
 
 
 <!---
@@ -143,8 +144,6 @@ RUSCADASEC challenge coin - металлический медальон с ло�
 | 070 | Евгений Касперский | Россия | [![][1]](https://twitter.com/e_kaspersky) | [![][2]](https://www.linkedin.com/in/eugenekaspersky) |||||
 | 099 | Георгий Здобнов | Россия |  | [![][2]](https://www.linkedin.com/in/zdobnov/) |||||
 | 100 | Алексей Комаров | Россия | [![][1]](https://twitter.com/zlonov) | [![][2]](https://www.linkedin.com/in/zlonov/) |||[![][5]](https://zlonov.com)|[![][6]](https://t.me/zlonov)|
-
-<iframe src="https://yoomoney.ru/quickpay/fundraise/button?billNumber=1GT0JVQSF17.260402&" width="330" height="50" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
 
 [<img height="25%" width="25%" src="TG_EN_2.png">](https://t.me/RUSCADASEC)
 ---
