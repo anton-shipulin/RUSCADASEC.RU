@@ -10,7 +10,8 @@ RUSCADASEC - независимая некоммерческая инициат�
 
 Инициатива охватывает онлайн площадки, живые встречи и профильные конференции, в рамках которых участники следят за текущим состоянием темы, обсуждают организационные и технические вопросы, обмениваются опытом, идеями. Всегда рады новым участникам сообщества и открыты к идеям по развитию сообщества и помощи в их реализации. Присоединяйтесь к нам!
 
-[<img height="25%" width="25%" src="TG_EN_2.png">](https://t.me/RUSCADASEC)   <iframe src="https://yoomoney.ru/quickpay/fundraise/button?billNumber=1GT0JVQSF17.260402&" width="330" height="50" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
+[<img height="25%" width="25%" src="TG_EN_2.png">](https://t.me/RUSCADASEC)   
+https://yoomoney.ru/quickpay/fundraise/button?billNumber=1GT0JVQSF17.260402
 
 <!---
 
