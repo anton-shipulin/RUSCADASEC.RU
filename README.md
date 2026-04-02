@@ -145,6 +145,7 @@ RUSCADASEC challenge coin - металлический медальон с ло�
 | 100 | Алексей Комаров | Россия | [![][1]](https://twitter.com/zlonov) | [![][2]](https://www.linkedin.com/in/zlonov/) |||[![][5]](https://zlonov.com)|[![][6]](https://t.me/zlonov)|
 
 <iframe src="https://yoomoney.ru/quickpay/fundraise/button?billNumber=1GT0JVQSF17.260402&" width="330" height="50" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
+
 [<img height="25%" width="25%" src="TG_EN_2.png">](https://t.me/RUSCADASEC)
 ---
 Copyright © [RUSCADASEC](http://ruscadasec.ru)
