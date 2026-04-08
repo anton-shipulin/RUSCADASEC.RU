@@ -139,9 +139,11 @@ RUSCADASEC challenge coin - металлический медальон с ло�
 | 049 | Андрей Суворов | Россия |||||||
 | 051 | Дмитрий Правиков | Россия |||||[![][5]](https://gubkin.ru/faculty/faculty-of-complex-safety-of-the-fuel-and-energy-complex/kafedry-i-podrazdeleniya/kbkvo/pps/pravikov_d_i.php)||
 | 053 | Андрей Иванов | Россия ||[![][2]](https://www.linkedin.com/in/andrey-ivanov-a585b839/)|||||
+| 054 | Евгений Баклушин | Россия |||||||
 | 068 | Евгений Гончаров | Россия ||[![][2]](https://www.linkedin.com/in/evgeny-goncharov-a4446634/)|||||
 | 069 | Владимир Дащенко | Россия | [![][1]](https://twitter.com/VDashchenko) | [![][2]](https://www.linkedin.com/in/vladimir-dashchenko/) |||||
 | 070 | Евгений Касперский | Россия | [![][1]](https://twitter.com/e_kaspersky) | [![][2]](https://www.linkedin.com/in/eugenekaspersky) |||||
+| 073 | Иван Байдехо | Россия |||||||
 | 099 | Георгий Здобнов | Россия |  | [![][2]](https://www.linkedin.com/in/zdobnov/) |||||
 | 100 | Алексей Комаров | Россия | [![][1]](https://twitter.com/zlonov) | [![][2]](https://www.linkedin.com/in/zlonov/) |||[![][5]](https://zlonov.com)|[![][6]](https://t.me/zlonov)|
 
