@@ -143,7 +143,7 @@ RUSCADASEC challenge coin - металлический медальон с ло�
 | 068 | Евгений Гончаров | Россия ||[![][2]](https://www.linkedin.com/in/evgeny-goncharov-a4446634/)|||||
 | 069 | Владимир Дащенко | Россия | [![][1]](https://twitter.com/VDashchenko) | [![][2]](https://www.linkedin.com/in/vladimir-dashchenko/) |||||
 | 070 | Евгений Касперский | Россия | [![][1]](https://twitter.com/e_kaspersky) | [![][2]](https://www.linkedin.com/in/eugenekaspersky) |||||
-| 073 | Иван Бадеха | Россия |||||||
+| 072 | Иван Бадеха | Россия |||||||
 | 099 | Георгий Здобнов | Россия |  | [![][2]](https://www.linkedin.com/in/zdobnov/) |||||
 | 100 | Алексей Комаров | Россия | [![][1]](https://twitter.com/zlonov) | [![][2]](https://www.linkedin.com/in/zlonov/) |||[![][5]](https://zlonov.com)|[![][6]](https://t.me/zlonov)|
 
