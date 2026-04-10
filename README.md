@@ -37,7 +37,6 @@ RUSCADASEC - независимая некоммерческая инициат�
 
 * [Email](mailto:info@ruscadasec.com)
 * [Twitter](https://twitter.com/RUSCADASEC)
-* [Встречи](https://ruscadasec.timepad.ru/events/)
 * [Youtube канал](https://www.youtube.com/channel/UCLGBGUsWM9zjPIQbSmfzG1w)
 * [Telegram канал](https://t.me/ruscadasecnews)
 * [Telegram группа](https://t.me/ruscadasec)
