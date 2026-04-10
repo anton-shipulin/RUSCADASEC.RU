@@ -44,6 +44,7 @@ RUSCADASEC - независимая некоммерческая инициат�
 * [Telegram канал по уязвимостям](https://t.me/ScadaXNews)
 * [Слайды докладов](https://speakerdeck.com/ruscadasec)
 * [Магазин сувениров](http://ruscadasec.printdirect.ru/)
+* [Статья о истории сообщества](https://www.itsec.ru/articles/soobshchestvo-ruscadasec-dlya-kogo-ono-i-kakie-problemy-reshaet)
 * [PowerPoint слайд "о сообществе"](https://ruscadasec.ru/RUSCADASEC_16x9_2021.pptx)
 * [Учебные материалы для начинающих](resources/README.md)
 
